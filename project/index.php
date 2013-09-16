@@ -1,21 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- Le styles -->
+
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/stylenew.css" rel="stylesheet">
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
 <script type="text/javascript" src="js/dragdrop/jquery-ui.js"></script>
 
-
-</head>
-
 <body>
 
 <div class="container">
 
-<!-------->
 <div id="content">
 	<div class="header">
 		<div class="leftblock"><h2 class="logoText">NFL</h2></div>
@@ -273,8 +266,7 @@
   
   
   
-</div> <!-- container -->
-
+</div> 
 
 
 
